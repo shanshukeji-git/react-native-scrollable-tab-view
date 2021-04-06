@@ -10,7 +10,7 @@ const {
   ScrollView,
   Platform,
   StyleSheet,
-  InteractionManager,
+  InteractionManager
 } = ReactNative;
 const TimerMixin = require('react-timer-mixin');
 
