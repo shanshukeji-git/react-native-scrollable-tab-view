@@ -9,7 +9,7 @@ const {
   ScrollView,
   Text,
   Platform,
-  Dimensions,
+  Dimensions
 } = ReactNative;
 const Button = require('./Button');
 
