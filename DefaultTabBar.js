@@ -6,7 +6,7 @@ const {
   StyleSheet,
   Text,
   View,
-  Animated,
+  Animated
 } = ReactNative;
 const Button = require('./Button');
 
